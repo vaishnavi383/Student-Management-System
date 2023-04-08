@@ -1,4 +1,4 @@
-public class Flash extends JFrame implements ActionListener{
+public class Flash extends JFrame implements ActionListener {
 	Flash(){
 		//getContentPane().setBackground(Color.BLACK);
 		//setLayout(null);
